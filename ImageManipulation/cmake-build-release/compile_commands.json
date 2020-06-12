@@ -1,0 +1,162 @@
+[
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /FoCMakeFiles\\yocto.dir\\yocto_shape.cpp.obj /FdCMakeFiles\\yocto.dir\\yocto.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto\\yocto_shape.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto/yocto_shape.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /FoCMakeFiles\\yocto.dir\\yocto_image.cpp.obj /FdCMakeFiles\\yocto.dir\\yocto.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto\\yocto_image.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto/yocto_image.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /FoCMakeFiles\\yocto.dir\\yocto_trace.cpp.obj /FdCMakeFiles\\yocto.dir\\yocto.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto\\yocto_trace.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto/yocto_trace.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /FoCMakeFiles\\yocto.dir\\yocto_sceneio.cpp.obj /FdCMakeFiles\\yocto.dir\\yocto.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto\\yocto_sceneio.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto/yocto_sceneio.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /FoCMakeFiles\\yocto.dir\\ext\\stb_image.cpp.obj /FdCMakeFiles\\yocto.dir\\yocto.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto\\ext\\stb_image.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto/ext/stb_image.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /FoCMakeFiles\\yocto.dir\\ext\\cgltf.cpp.obj /FdCMakeFiles\\yocto.dir\\yocto.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto\\ext\\cgltf.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto/ext/cgltf.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP   /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /FoCMakeFiles\\yocto.dir\\ext\\tinyexr.cpp.obj /FdCMakeFiles\\yocto.dir\\yocto.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto\\ext\\tinyexr.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto/ext/tinyexr.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_grade",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP  -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /EHsc -std:c++17 /FoCMakeFiles\\yocto_grade.dir\\yocto_grade.cpp.obj /FdCMakeFiles\\yocto_grade.dir\\yocto_grade.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_grade\\yocto_grade.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_grade/yocto_grade.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\. -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /FoCMakeFiles\\yocto_gui.dir\\yocto_gui.cpp.obj /FdCMakeFiles\\yocto_gui.dir\\yocto_gui.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\yocto_gui.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/yocto_gui.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\. -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /FoCMakeFiles\\yocto_gui.dir\\ext\\imgui\\imgui.cpp.obj /FdCMakeFiles\\yocto_gui.dir\\yocto_gui.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\imgui\\imgui.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/imgui/imgui.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\. -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /FoCMakeFiles\\yocto_gui.dir\\ext\\imgui\\imgui_draw.cpp.obj /FdCMakeFiles\\yocto_gui.dir\\yocto_gui.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\imgui\\imgui_draw.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\. -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /FoCMakeFiles\\yocto_gui.dir\\ext\\imgui\\imgui_widgets.cpp.obj /FdCMakeFiles\\yocto_gui.dir\\yocto_gui.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\imgui\\imgui_widgets.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\. -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /FoCMakeFiles\\yocto_gui.dir\\ext\\imgui\\imgui_impl_glfw.cpp.obj /FdCMakeFiles\\yocto_gui.dir\\yocto_gui.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\imgui\\imgui_impl_glfw.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/imgui/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\. -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc -std:c++17 /FoCMakeFiles\\yocto_gui.dir\\ext\\imgui\\imgui_impl_opengl3.cpp.obj /FdCMakeFiles\\yocto_gui.dir\\yocto_gui.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\imgui\\imgui_impl_opengl3.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DIMGUI_IMPL_OPENGL_LOADER_GLAD -DYOCTO_OPENGL -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\. -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /D_CRT_SECURE_NO_WARNINGS /wd4018 /wd4244 /wd4305 /wd4800 /wd4267 /EHsc /FoCMakeFiles\\yocto_gui.dir\\ext\\glad\\glad.c.obj /FdCMakeFiles\\yocto_gui.dir\\yocto_gui.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glad\\glad.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glad/glad.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\context.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\context.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/context.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\init.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\init.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/init.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\input.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\input.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/input.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\monitor.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\monitor.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/monitor.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\vulkan.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\vulkan.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/vulkan.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\window.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\window.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/window.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\win32_init.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\win32_init.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/win32_init.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\win32_joystick.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\win32_joystick.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/win32_joystick.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\win32_monitor.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\win32_monitor.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/win32_monitor.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\win32_time.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\win32_time.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/win32_time.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\win32_thread.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\win32_thread.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/win32_thread.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\win32_window.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\win32_window.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/win32_window.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\wgl_context.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\wgl_context.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/wgl_context.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\egl_context.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\egl_context.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/egl_context.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/libs/yocto_gui/glfw/src",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo -DYOCTO_OPENGL -D_CRT_SECURE_NO_WARNINGS -D_GLFW_USE_CONFIG_H -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\cmake-build-release\\libs\\yocto_gui\\glfw\\src  /DWIN32 /D_WINDOWS /W3 /MD /O2 /Ob2 /DNDEBUG   /FoCMakeFiles\\glfw.dir\\osmesa_context.c.obj /FdCMakeFiles\\glfw.dir\\glfw.pdb /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\src\\osmesa_context.c",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/libs/yocto_gui/ext/glfw/src/osmesa_context.c"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/apps/yimggrade",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP  -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /EHsc -std:c++17 /FoCMakeFiles\\yimggrade.dir\\yimggrade.cpp.obj /FdCMakeFiles\\yimggrade.dir\\ /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\apps\\yimggrade\\yimggrade.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/apps/yimggrade/yimggrade.cpp"
+},
+{
+  "directory": "C:/Users/gi4nm/Desktop/CGHomeworks/1/cmake-build-release/apps/yimgigrades",
+  "command": "C:\\PROGRA~2\\MICROS~1\\2019\\COMMUN~1\\VC\\Tools\\MSVC\\1424~1.283\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP  -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs -IC:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\libs\\yocto_gui\\ext\\glfw\\include  /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MD /O2 /Ob2 /DNDEBUG   /EHsc -std:c++17 /FoCMakeFiles\\yimgigrades.dir\\yimgigrades.cpp.obj /FdCMakeFiles\\yimgigrades.dir\\ /FS -c C:\\Users\\gi4nm\\Desktop\\CGHomeworks\\1\\apps\\yimgigrades\\yimgigrades.cpp",
+  "file": "C:/Users/gi4nm/Desktop/CGHomeworks/1/apps/yimgigrades/yimgigrades.cpp"
+}
+]

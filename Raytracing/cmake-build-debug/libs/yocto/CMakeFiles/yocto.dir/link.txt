@@ -1,0 +1,2 @@
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe qc ..\..\..\bin\debug\libyocto.a  CMakeFiles/yocto.dir/yocto_shape.cpp.obj CMakeFiles/yocto.dir/yocto_image.cpp.obj CMakeFiles/yocto.dir/yocto_trace.cpp.obj CMakeFiles/yocto.dir/yocto_sceneio.cpp.obj CMakeFiles/yocto.dir/ext/stb_image.cpp.obj CMakeFiles/yocto.dir/ext/cgltf.cpp.obj CMakeFiles/yocto.dir/ext/tinyexr.cpp.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ranlib.exe ..\..\..\bin\debug\libyocto.a

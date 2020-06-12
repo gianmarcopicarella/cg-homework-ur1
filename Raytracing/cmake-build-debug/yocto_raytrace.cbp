@@ -1,0 +1,595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="yocto_raytrace"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="msvc8"/>
+		<Option virtualFolders="CMake Files\;CMake Files\libs\;CMake Files\libs\yocto_gui\;CMake Files\libs\yocto_gui\ext\;CMake Files\libs\yocto_gui\ext\glfw\;CMake Files\libs\yocto_gui\ext\glfw\src\;CMake Files\libs\yocto\;CMake Files\libs\yocto_raytrace\;CMake Files\apps\;CMake Files\apps\yscenetrace\;CMake Files\apps\ysceneitraces\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\Makefile VERBOSE=1 all"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\Makefile VERBOSE=1 edit_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\Makefile VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yocto">
+				<Option output="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug/yocto.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/cmake-build-debug/libs/yocto"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto\Makefile VERBOSE=1 yocto"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yocto/fast">
+				<Option output="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug/yocto.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/cmake-build-debug/libs/yocto"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto\Makefile VERBOSE=1 yocto/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yocto_trace">
+				<Option output="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug/yocto_trace.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/cmake-build-debug/libs/yocto_raytrace"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_raytrace\Makefile VERBOSE=1 yocto_trace"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_raytrace\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_raytrace\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_raytrace\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yocto_trace/fast">
+				<Option output="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug/yocto_trace.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/cmake-build-debug/libs/yocto_raytrace"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_raytrace\Makefile VERBOSE=1 yocto_trace/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_raytrace\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_raytrace\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_raytrace\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yocto_gui">
+				<Option output="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug/yocto_gui.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/cmake-build-debug/libs/yocto_gui"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DIMGUI_IMPL_OPENGL_LOADER_GLAD"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add option="-DYOCTO_OPENGL"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/."/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\Makefile VERBOSE=1 yocto_gui"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yocto_gui/fast">
+				<Option output="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug/yocto_gui.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/cmake-build-debug/libs/yocto_gui"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-DIMGUI_IMPL_OPENGL_LOADER_GLAD"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add option="-DYOCTO_OPENGL"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/."/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\Makefile VERBOSE=1 yocto_gui/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glfw">
+				<Option output="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug/glfw3.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/cmake-build-debug/libs/yocto_gui/glfw/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_GLFW_USE_CONFIG_H"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add option="-DYOCTO_OPENGL"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/include"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/cmake-build-debug/libs/yocto_gui/glfw/src"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\glfw\src\Makefile VERBOSE=1 glfw"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\glfw\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\glfw\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\glfw\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="glfw/fast">
+				<Option output="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug/glfw3.lib" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/cmake-build-debug/libs/yocto_gui/glfw/src"/>
+				<Option object_output="./"/>
+				<Option type="2"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_GLFW_USE_CONFIG_H"/>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add option="-DYOCTO_OPENGL"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/include"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/cmake-build-debug/libs/yocto_gui/glfw/src"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\glfw\src\Makefile VERBOSE=1 glfw/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\glfw\src\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\glfw\src\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\libs\yocto_gui\glfw\src\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yscenetrace">
+				<Option output="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug/yscenetrace.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\yscenetrace\Makefile VERBOSE=1 yscenetrace"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\yscenetrace\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\yscenetrace\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\yscenetrace\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="yscenetrace/fast">
+				<Option output="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug/yscenetrace.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\yscenetrace\Makefile VERBOSE=1 yscenetrace/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\yscenetrace\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\yscenetrace\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\yscenetrace\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ysceneitraces">
+				<Option output="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug/ysceneitraces.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\ysceneitraces\Makefile VERBOSE=1 ysceneitraces"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\ysceneitraces\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\ysceneitraces\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\ysceneitraces\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="ysceneitraces/fast">
+				<Option output="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug/ysceneitraces.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/gi4nm/Desktop/CGHomeworks/2/bin/debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="msvc8"/>
+				<Compiler>
+					<Add option="-D_CRT_SECURE_NO_WARNINGS"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs"/>
+					<Add directory="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\ATLMFC\include"/>
+					<Add directory="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"/>
+					<Add directory="C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\cppwinrt"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\ysceneitraces\Makefile VERBOSE=1 ysceneitraces/fast"/>
+					<CompileFile command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\ysceneitraces\Makefile VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\ysceneitraces\Makefile VERBOSE=1 clean"/>
+					<DistClean command="nmake /NOLOGO /f C:\Users\gi4nm\Desktop\CGHomeworks\2\cmake-build-debug\apps\ysceneitraces\Makefile VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/apps/ysceneitraces/ysceneitraces.cpp">
+			<Option target="ysceneitraces"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/apps/yscenetrace/yscenetrace.cpp">
+			<Option target="yscenetrace"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/cmake-build-debug/libs/yocto_gui/glfw/src/glfw_config.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/ext/cgltf.cpp">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/ext/cgltf.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/ext/cgltf_write.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/ext/filesystem.hpp">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/ext/json.hpp">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/ext/stb_image.cpp">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/ext/stb_image.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/ext/stb_image_resize.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/ext/stb_image_write.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/ext/tinyexr.cpp">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/ext/tinyexr.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/yocto_common.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/yocto_commonio.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/yocto_image.cpp">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/yocto_image.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/yocto_math.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/yocto_obj.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/yocto_pbrt.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/yocto_ply.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/yocto_sceneio.cpp">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/yocto_sceneio.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/yocto_shape.cpp">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/yocto_shape.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/yocto_trace.cpp">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/yocto_trace.h">
+			<Option target="yocto"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glad/glad.c">
+			<Option target="yocto_gui"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glad/glad.h">
+			<Option target="yocto_gui"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/include/GLFW/glfw3.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/include/GLFW/glfw3native.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/context.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/egl_context.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/egl_context.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/init.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/input.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/internal.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/mappings.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/monitor.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/osmesa_context.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/osmesa_context.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/vulkan.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/wgl_context.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/wgl_context.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/win32_init.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/win32_joystick.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/win32_joystick.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/win32_monitor.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/win32_platform.h">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/win32_thread.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/win32_time.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/win32_window.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/window.c">
+			<Option target="glfw"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/imgui/imgui.cpp">
+			<Option target="yocto_gui"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/imgui/imgui.h">
+			<Option target="yocto_gui"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/imgui/imgui_draw.cpp">
+			<Option target="yocto_gui"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/imgui/imgui_impl_glfw.cpp">
+			<Option target="yocto_gui"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/imgui/imgui_impl_glfw.h">
+			<Option target="yocto_gui"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/imgui/imgui_impl_opengl3.cpp">
+			<Option target="yocto_gui"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/imgui/imgui_impl_opengl3.h">
+			<Option target="yocto_gui"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/imgui/imgui_widgets.cpp">
+			<Option target="yocto_gui"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/yocto_gui.cpp">
+			<Option target="yocto_gui"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/yocto_gui.h">
+			<Option target="yocto_gui"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_raytrace/yocto_raytrace.cpp">
+			<Option target="yocto_trace"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_raytrace/yocto_raytrace.h">
+			<Option target="yocto_trace"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\yocto_gui\"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\yocto_gui\ext\glfw\"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\yocto_gui\ext\glfw\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/glfw3.pc.in">
+			<Option virtualFolder="CMake Files\libs\yocto_gui\ext\glfw\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/glfw3Config.cmake.in">
+			<Option virtualFolder="CMake Files\libs\yocto_gui\ext\glfw\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_gui/ext/glfw/src/glfw_config.h.in">
+			<Option virtualFolder="CMake Files\libs\yocto_gui\ext\glfw\src\"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\yocto\"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/libs/yocto_raytrace/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\libs\yocto_raytrace\"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/apps/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\apps\"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/apps/yscenetrace/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\apps\yscenetrace\"/>
+		</Unit>
+		<Unit filename="C:/Users/gi4nm/Desktop/CGHomeworks/2/apps/ysceneitraces/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\apps\ysceneitraces\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

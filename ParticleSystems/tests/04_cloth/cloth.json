@@ -1,0 +1,122 @@
+{
+  "asset": {
+    "copyright": "Model by Fabio Pellacini from github.com/~xelatihy/yocto-gl"
+  },
+  "cameras": {
+    "default": {
+      "lens": 0.05,
+      "aperture": 0.0,
+      "aspect": 1,
+      "lookat": [
+        -0.6,
+        0.8,
+        0.6,
+        0,
+        0.1,
+        0,
+        0,
+        1,
+        0
+      ]
+    }
+  },
+  "environments": {
+    "sky": {
+      "emission": [
+        0.5,
+        0.5,
+        0.5
+      ],
+      "emission_tex": "sky"
+    }
+  },
+  "objects": {
+    "floor": {
+      "shape": "floor",
+      "material": "floor"
+    },
+    "cloth": {
+      "frame": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0.4,
+        0
+      ],
+      "shape": "cloth",
+      "material": "cloth"
+    },
+    "sphere": {
+      "frame": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0.1,
+        0,
+        0
+      ],
+      "shape": "sphere",
+      "material": "collider"
+    },
+    "bunny": {
+      "frame": [
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        -0.1,
+        0,
+        0
+      ],
+      "shape": "bunny",
+      "material": "collider"
+    }
+  },
+  "materials": {
+    "floor": {
+      "color": [
+        0.7,
+        0.7,
+        0.7
+      ],
+      "color_tex": "floor",
+      "specular": 0
+    },
+    "cloth": {
+      "color": [
+        0.5,
+        0.5,
+        0.8
+      ],
+      "specular": 0,
+      "roughness": 1
+    },
+    "collider": {
+      "color": [
+        0.5,
+        0.8,
+        0.5
+      ],
+      "specular": 0,
+      "roughness": 1
+    }
+  }
+}

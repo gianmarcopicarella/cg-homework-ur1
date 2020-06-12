@@ -1,0 +1,14 @@
+bin
+build
+out
+outs
+.vscode/.cmaketools.json
+/*.hdr
+/*.exr
+/*.png
+.vscode/ipch/
+tests/renderings/*.png
+tests/renderings/*.hdr
+tests1/
+.vs
+testsr/

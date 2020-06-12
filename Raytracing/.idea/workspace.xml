@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="yocto_raytrace" targetName="ysceneitraces" />
+      <config projectName="yocto_raytrace" targetName="yocto" />
+      <config projectName="yocto_raytrace" targetName="yocto_gui" />
+      <config projectName="yocto_raytrace" targetName="yscenetrace" />
+      <config projectName="yocto_raytrace" targetName="yocto_trace" />
+      <config projectName="yocto_raytrace" targetName="glfw" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Release" CONFIG_NAME="Release" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="70a9b344-0092-41c4-aa87-c502ce310314" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Release" />
+  <component name="ProjectId" id="1ZRTDISKmXtXdmiv1eKwQdz1ORb" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager" selected="CMake Application.ysceneitraces">
+    <configuration name="glfw" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yocto_raytrace" TARGET_NAME="glfw" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yocto" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yocto_raytrace" TARGET_NAME="yocto" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yocto_gui" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yocto_raytrace" TARGET_NAME="yocto_gui" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yocto_trace" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yocto_raytrace" TARGET_NAME="yocto_trace" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ysceneitraces" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="tests/11_bathroom1/bathroom1.json -o out/lowres/11_bathroom1_720_256.jpg -s 256 -b 8 -r 720" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yocto_raytrace" TARGET_NAME="ysceneitraces" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="yocto_raytrace" RUN_TARGET_NAME="ysceneitraces">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="yscenetrace" type="CMakeRunConfiguration" factoryName="Application" PROGRAM_PARAMS="tests/12_ecosys/ecosys.json -o out/lowres/12_ecosys_720_256.jpg -s 256 -r 720 -b 4" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="yocto_raytrace" TARGET_NAME="yscenetrace" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="yocto_raytrace" RUN_TARGET_NAME="yscenetrace">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.glfw" />
+      <item itemvalue="CMake Application.yocto" />
+      <item itemvalue="CMake Application.yocto_gui" />
+      <item itemvalue="CMake Application.yocto_trace" />
+      <item itemvalue="CMake Application.ysceneitraces" />
+      <item itemvalue="CMake Application.yscenetrace" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70a9b344-0092-41c4-aa87-c502ce310314" name="Default Changelist" comment="" />
+      <created>1584800785855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584800785855</updated>
+      <workItem from="1584800787247" duration="17157000" />
+      <workItem from="1584876677621" duration="17991000" />
+      <workItem from="1584917569253" duration="53000" />
+      <workItem from="1584977772264" duration="60000" />
+      <workItem from="1584977855177" duration="2897000" />
+      <workItem from="1584982004163" duration="1539000" />
+      <workItem from="1585064886387" duration="6909000" />
+      <workItem from="1585173271421" duration="66000" />
+      <workItem from="1585228180047" duration="919000" />
+      <workItem from="1585314351530" duration="10459000" />
+      <workItem from="1585337286474" duration="4515000" />
+      <workItem from="1585389144553" duration="7651000" />
+      <workItem from="1585403475388" duration="1144000" />
+      <workItem from="1585417441166" duration="1185000" />
+      <workItem from="1585425557514" duration="18000" />
+      <workItem from="1585489294961" duration="11260000" />
+      <workItem from="1585516680322" duration="13000" />
+      <workItem from="1585586645471" duration="1823000" />
+      <workItem from="1585670173230" duration="11089000" />
+      <workItem from="1585750978954" duration="347000" />
+      <workItem from="1585753632270" duration="316000" />
+      <workItem from="1585836229193" duration="4205000" />
+      <workItem from="1585841095181" duration="823000" />
+      <workItem from="1585915729704" duration="617000" />
+      <workItem from="1586010896658" duration="1056000" />
+      <workItem from="1586172355588" duration="1149000" />
+      <workItem from="1586358581730" duration="609000" />
+      <workItem from="1588259345759" duration="252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="604" y="423" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1588259452533">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="604" y="423" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1588259452533" />
+    <state x="1017" y="350" key="FileChooserDialogImpl" timestamp="1584801444172">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="1017" y="350" key="FileChooserDialogImpl/0.0.2048.1112@0.0.2048.1112" timestamp="1584801444172" />
+    <state width="992" height="240" key="GridCell.Tab.0.bottom" timestamp="1588259597755">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="992" height="240" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1588259597755" />
+    <state width="992" height="240" key="GridCell.Tab.0.center" timestamp="1588259597755">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="992" height="240" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1588259597755" />
+    <state width="992" height="240" key="GridCell.Tab.0.left" timestamp="1588259597755">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="992" height="240" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1588259597755" />
+    <state width="992" height="240" key="GridCell.Tab.0.right" timestamp="1588259597755">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="992" height="240" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1588259597755" />
+    <state x="533" y="199" key="SettingsEditor" timestamp="1585587937218">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="533" y="199" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1585587937218" />
+  </component>
+</project>
