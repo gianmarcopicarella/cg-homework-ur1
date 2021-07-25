@@ -1,12 +1,12 @@
-# Computer graphics homeworks
-This is a series of homework I worked on during the computer graphics class at Sapienza. The homeworks are 4 and for each one we were asked to implement a set of features.
+# Computer graphics homework
+This is a set of homework I worked on during the computer graphics class at Sapienza. The homeworks are 4 and for each one we were asked to implement a set of features.
 - [Picture loading and saving, Tonemapping and color grading](https://github.com/gianmarcopicarella/CS-Computer-graphics-class-homework/tree/master/ImageManipulation) 
 - [Shader programming](https://github.com/gianmarcopicarella/CS-Computer-graphics-class-homework/tree/master/Raytracing) (Raytracing)
 - [Procedural modeling](https://github.com/gianmarcopicarella/CS-Computer-graphics-class-homework/tree/master/ProceduralModeling)
 - [Particle systems](https://github.com/gianmarcopicarella/CS-Computer-graphics-class-homework/tree/master/ParticleSystems)
 
 # Extra credit (Watercolor painting effect)
-In addition, I developed an extra feature inside the first homework which turns a picture into a painting. [Here](https://github.com/gianmarcopicarella/CS-Computer-graphics-class-homework/blob/master/ImageManipulation/libs/yocto_grade/yocto_grade.cpp) you can find my implementation.
+In addition, I developed an extra feature which turns a picture into a painting. [Here](https://github.com/gianmarcopicarella/CS-Computer-graphics-class-homework/blob/master/ImageManipulation/libs/yocto_grade/yocto_grade.cpp) you can find my implementation.
 
 <br/>
 <p align="center">
