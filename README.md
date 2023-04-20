@@ -1,4 +1,4 @@
-# Computer graphics homework
+# Computer Graphics 19/20 course assignments
 This is a set of homework I worked on during the computer graphics class at Sapienza. The homeworks are 4 and for each one we were asked to implement a set of features.
 - [Picture loading and saving, Tonemapping and color grading](https://github.com/gianmarcopicarella/CS-Computer-graphics-class-homework/tree/master/ImageManipulation) 
 - [Shader programming](https://github.com/gianmarcopicarella/CS-Computer-graphics-class-homework/tree/master/Raytracing) (Raytracing)
